@@ -18,6 +18,7 @@
 *.zip
 *.tar.gz
 *.rar
+.code-workspace
 
 # ignore env file
 .env
